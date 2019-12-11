@@ -1,8 +1,7 @@
+//CODE TAKEN AND ADAPTED FROM https://github.com/esp8266/Arduino/tree/master/libraries/ESP8266HTTPClient
 /**
    StreamHTTPClient.ino
-
-    Created on: 24.05.2015
-
+    Original version Created on: 24.05.2015
 */
 
 #include <Arduino.h>
